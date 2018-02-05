@@ -1,6 +1,6 @@
-# SalesAggregator Bundle
+# SalesAggregator Module
 
-**This bundle is not continued at this point.**
+**This module is not continued at this point.**
 
 
 ## Installation

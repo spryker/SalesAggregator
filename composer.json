@@ -1,0 +1,6 @@
+{
+  "name": "spryker/sales-aggregator",
+  "description": "SalesAggregator module",
+  "license": "proprietary",
+  "abandoned": true
+}
